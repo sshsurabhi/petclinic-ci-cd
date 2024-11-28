@@ -78,4 +78,4 @@ Feel free to fork this repository and submit pull requests for improvements or a
 ## License
 This project is licensed under the MIT License.
 
-You can replace the repository link (`https://github.com/sshsurabhi/petclinic-iac-main.git`) with your actual GitHub repository link. Additionally, modify any section to better fit your specific implementation or organization guidelines.
+You can replace the repository link [petclinic-iac-terraform](https://github.com/sshsurabhi/petclinic-iac-main.git) with your actual GitHub repository link. Additionally, modify any section to better fit your specific implementation or organization guidelines.
